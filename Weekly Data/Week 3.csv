@@ -1,0 +1,26 @@
+﻿Date,Time of Day,Stress Score (Before),Stress Category,Activity Performed,Stress Score (After),Stress Improvement
+6-Dec-25,Afternoon,48,Mild,Listening to Music ,26,22
+7-Dec-25,Evening,32,Mild,Watching F1,36,-4
+8-Dec-25,Night ,39,Mild,Gaming,30,9
+8-Dec-25,Evening ,43,Mild,Listening to Music ,37,6
+9-Dec-25,Morning,33,Mild,Walking,24,9
+9-Dec-25,Morning,8,Relaxed ,Meditate,22,-14
+9-Dec-25,Afternoon,36,Mild,Idle,32,4
+9-Dec-25,Evening,36,Mild,Coding,33,3
+10-Dec-25,Morning,36,Mild,Cooking,38,-2
+10-Dec-25,Afternoon,33,Mild,Idle/Standing,36,-3
+10-Dec-25,Evening,32,Mild,Idle/Standing,36,-4
+11-Dec-25,Afternoon,41,Mild,Gaming,32,9
+11-Dec-25,Afternoon,39,Mild,Reading,30,9
+11-Dec-25,Afternoon,12,Relaxed ,Reading,16,-4
+11-Dec-25,Evening,27,Mild,Watching Tutorial,30,-3
+11-Dec-25,Evening,33,Mild,Watching Horror,38,-5
+11-Dec-25,Night,39,Mild,Listening to Music ,34,5
+12-Dec-25,Morning,15,Relaxed ,Listening to Music ,21,-6
+12-Dec-25,Morning,12,Relaxed ,Listening to Music ,20,-8
+12-Dec-25,Morning,15,Relaxed ,Listening to Music ,19,-4
+12-Dec-25,Morning,10,Relaxed ,Listening to Music ,18,-8
+12-Dec-25,Afternoon,33,Mild,Gaming,37,-4
+12-Dec-25,Afternoon,36,Mild,Gaming,39,-3
+12-Dec-25,Evening,22,Relaxed ,Gaming,30,-8
+12-Dec-25,Evening,34,Mild,Gaming,38,-4
