@@ -1,9 +1,8 @@
-﻿Date,Time of Day,Stress Score (Before),Stress Category,Activity Performed,Stress Score (After),Stress Improvement
-28-Nov-25,Morning,21,Relaxed ,Meditate,12,9
-29-Nov-25,Evening,51,Moderate,Gaming,33,18
-30-Nov-25,Evening,46,Mild ,Watching F1,35,11
-1-Dec-25,Evening ,36,Mild,Watching F1,31,5
-2-Dec-25,Morning,17,Relaxed ,Listening to Music ,10,7
-3-Dec-25,Morning,36,Mild ,Walking,22,14
-4-Dec-25,Evening,38,Mild ,Gaming,35,3
-5-Dec-25,Night,46,Mild,Gaming ,36,10
+﻿Date,Start Time (Before),Stress Score (Before),Stress Category,Activity Performed,End Time (After),Stress Score (After),Stress Improvement
+29-Nov-25,10:23 PM,51,Moderate,Listening to Music ,10:52 PM,33,18
+30-Nov-25,12:03 AM,46,Mild ,Watching F1,12:20 AM,35,11
+1-Dec-25,12:30 AM,36,Mild,Watching F1,1:00 AM,31,5
+2-Dec-25,7:00 AM,17,Relaxed ,Listening to Music ,7:33 AM,10,7
+3-Dec-25,4:00 PM,36,Mild ,Walking,5:05 PM,22,14
+4-Dec-25,9:30 PM,38,Mild ,Gaming,10:20 PM,35,3
+5-Dec-25,11:34 PM,46,Mild,Gaming ,12:17 PM,36,10

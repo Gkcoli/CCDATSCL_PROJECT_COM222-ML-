@@ -1,9 +1,8 @@
-﻿Date,Time of Day,Stress Score (Before),Stress Category,Activity Performed,Stress Score (After),Stress Improvement
-22-Nov-25,Evening,32,Mild,Workout,25,7
-23-Nov-25,Night,35,Mild,Reading,30,5
-24-Nov-25,Night,46,Mild,Binge Watching Series,21,25
-25-Nov-25,Morning,28,Mild,Walking,16,12
-26-Nov-25,Afternoon,20,Relaxed ,Reading,14,6
-27-Nov-25,Night,41,Mild ,Gaming,37,4
-28-Nov-25,Morning,21,Relaxed ,Meditate,12,9
-,,,,,,
+﻿Date,Start Time (Before),Stress Score (Before),Stress Category,Activity Performed,End Time (After),Stress Score (After),Stress Improvement
+22-Nov-25,6:55 PM,32,Mild,Workout,8:05 PM,25,7
+23-Nov-25,3:00 PM,35,Mild,Reading,3:30 PM,30,5
+24-Nov-25,8:00 PM,46,Mild,Watching,8:30 PM,21,25
+25-Nov-25,5:00 AM,28,Mild,Walking,5:45 AM,16,12
+26-Nov-25,6:30 AM,20,Relaxed ,Reading,7:00 AM,14,6
+27-Nov-25,3:30 PM,41,Mild ,Gaming,4:15 PM,37,4
+28-Nov-25,6:30 AM,21,Relaxed ,Meditate,6:40 AM,12,9
